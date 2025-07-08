@@ -1,4 +1,6 @@
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=MONTHLY EXPENSE TRACKER" alt="monthly-expense-tracker" />
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=Monthly-Expense-Tracker" 			alt="Monthly Expense Tracker Running Text Image" />
+</div>
 
 ---
 
