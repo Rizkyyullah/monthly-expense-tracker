@@ -230,6 +230,7 @@ form button:nth-child(2) {
 .form-group {
 	display: flex;
 	flex-direction: column;
+	overflow: hidden;
 }
 
 .form-group label {
@@ -241,6 +242,7 @@ form button:nth-child(2) {
 .form-group input,
 .form-group select,
 .form-group textarea {
+	/* width: max-content; */
 	padding: 12px;
 	border: 2px solid #aed6f1;
 	border-radius: 10px;
